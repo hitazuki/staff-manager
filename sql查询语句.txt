@@ -1,0 +1,2 @@
+update administrator set APASSWORD=$new where A=$userid;
+
